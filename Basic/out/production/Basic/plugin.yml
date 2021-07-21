@@ -1,0 +1,22 @@
+name: Basic
+main: me.Basic.Main
+version: 1
+description: Basic Core
+
+commands:
+  GMC:
+    description: Gamemode Command
+  GMA:
+    description: Gamemode Command
+  GMS:
+    description: Gamemode Command
+  GMP:
+    description: Gamemode Command
+  GMSP:
+    description: Gamemode Command
+  Vanish:
+    description: Vanish Command
+  Heal:
+    description: Basic Command
+
+
